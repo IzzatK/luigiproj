@@ -8,6 +8,46 @@
     right:161px;
 }
 
+@media(min-width:322px) {
+    #signincard {
+        position:relative; 
+        left: -102.7px;
+        top: 166.1px;
+    }
+    #collapsedtopnav {
+        position:relative;
+        left:127.8px;
+        top:1px;
+    }
+
+}
+
+@media(min-width:400px) {
+    #signincard {
+        position:relative; 
+        left: -102.7px;
+        top: 166.1px;
+    }
+    #collapsedtopnav {
+        position:relative;
+        left:167.8px;
+        top:1px;
+    }
+
+}
+@media(min-width:500px) {
+    #signincard {
+        position:relative; 
+        left: -102.7px;
+        top: 199.1px;
+    }
+    #collapsedtopnav {
+        position:relative;
+        left:167.8px;
+        top:20px;
+    }
+}
+
 
 @media(min-width:580px) {
     #signincard {
