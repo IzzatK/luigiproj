@@ -1,0 +1,168 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#signincard {
+    position:relative;
+    top:80px;
+    right:161px;
+}
+
+
+@media(min-width:580px) {
+    #signincard {
+        position:relative;
+        left:-20px;
+
+        
+    }
+    #collapsedtopnav{
+        position:relative;
+        top:51.27px;
+        left:127px;
+    }
+}
+
+@media(min-width:630px) {
+    #signincard {
+        position:relative;
+        left:-25px;
+
+        
+    }
+    #collapsedtopnav{
+        position:relative;
+        top:51.27px;
+        left:147px;
+    }
+}
+
+@media(min-width:700px) {
+    #signincard {
+        position:relative;
+        left:-25px;
+
+        
+    }
+    #collapsedtopnav{
+        position:relative;
+        top:51.27px;
+        left:147px;
+    }
+
+}
+@media(min-width:797px) {
+    #signincard {
+        position:relative;
+        left:-25px;
+
+        
+    }
+    #collapsedtopnav{
+        position:relative;
+        top:51.27px;
+        left:147px;
+    }
+
+}
+
+@media(min-width:879px){
+    #signincard{
+        position:relative;
+        left:-12px;
+    }
+    #collapsedtopnav{
+        position:relative;
+        top:48.43px;
+        left:140px;
+    }
+}
+
+@media(max-width:1000px){
+    #topnav{
+        display:none;
+
+    }
+}
+@media(min-width:1001px){
+    #topnav {
+        position:relative;
+        left:270px;
+    }
+    #signincard{
+        position:relative;
+        left:107px;
+    }
+    #page1text {
+        position:relative;
+        left:17px;
+    }
+    #collapsedtopnav {
+        display:none;
+    }
+}
+
+@media(min-width:1280px){
+    #topnav {
+        position:relative;
+        left:317px;
+    }
+    #signincard{
+        position:relative;
+        left:154px;
+    }
+    #page1text {
+        position:relative;
+        left:17px;
+    }
+}
+
+@media(min-width:1380px){
+    #topnav{
+        position:relative;
+        left:367px;
+        
+    }
+    #signincard
+    {
+        position:relative;
+        left:204px; 
+    }
+    #page1text {
+        position:relative;
+        left:17px;
+    }
+}
+@media(min-width:1501px){
+    #topnav {
+        position:relative;
+        left:409px;
+    }
+    #signincard
+    {
+        position:relative;
+        left:264px; 
+    }
+    #page1text {
+        position:relative;
+        left:17px;
+    }
+}
+
+@media(min-width:1677px){
+    #topnav {
+        position:relative;
+        left:520px;
+    }
+    #signincard
+    {
+        position:relative;
+        left:367.6px; 
+    }
+    #page1text {
+        position:relative;
+        left:17px;
+    }
+}
+
+
